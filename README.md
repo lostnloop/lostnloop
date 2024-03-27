@@ -1,17 +1,21 @@
-<img align = "right" src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FHridK%2FHridK%2Ftree%2Fmain&label=Visitors&labelColor=%23d9e3f0&countColor=%23263759&style=plastic"/><br>
+<p><img align = "right" src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FHridK%2FHridK%2Ftree%2Fmain&label=Visitors&labelColor=%23d9e3f0&countColor=%23263759&style=plastic"/></p>
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro&size=29&duration=3500&pause=500&color=2787B1&center=true&vCenter=true&random=false&width=500&lines=Hey+There!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Hridayesh;Nice+to+meet+you+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a>
 </p> <hr>
-<h3 align = "center" > MACHINE LEARNING~ DEEP LEARNING ~ CNN ~ REINFORCEMENT LEARNING ~ BLOCKCHAIN DEVELOPMENT</h3><hr>
-  <h2 align = "center"> ABOUT ME 💻</h2>
+<h3 align = "center" > MACHINE LEARNING~ DEEP LEARNING ~ CNN ~ REINFORCEMENT LEARNING ~ BLOCKCHAIN DEVELOPMENT</h3><br>
+
+  <h1 > About-me 🌊</h1>
   <br>
-<div align="center">
-  
+<div align="left">
+  <img align = "right" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" height = "250" width = "350" >
+    
 📚 I am an undergrad at BITS-Pilani, K. K. Birla Goa Campus.
 
 🔭 Primarily interested in **ML/DL** and **Blockchain Development**.
 
 🌱 I'm currently learning **CNN** and **Reinforcement Learning**.
+
+ ♟️ I'm also a FIDE rated chess player.
 
 👯 I’m looking to collaborate on Github with other ML enthusiasts.
 
@@ -21,9 +25,9 @@
   <a href="https://www.linkedin.com/in/hridayeshkundu"><img alt="Static Badge" src="https://img.shields.io/badge/Hridayesh-001?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
 </div>
 
-</div> <hr>
+</div> 
 
- <br> <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br>
+<hr><h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1><br>
 <div class = "tools">
 <div style = "margin; 50px; padding: 80px;" height="60" align = "center">
   <a href="https://www.python.org/"><img src= "https://skillicons.dev/icons?i=python" height= "60" /></a>
@@ -40,6 +44,13 @@
   <a href="https://www.jetbrains.com/idea/"> <img src="https://skillicons.dev/icons?i=idea"  height = "60" alt = "IDEA IntelliJ"></a>
   <a href="https://scikit-learn.org/stable/"> <img src="https://skillicons.dev/icons?i=sklearn"  height = "60" alt = "Scikit-Learn"></a>
   <a href="https://matlab.mathworks.com/"> <img src="https://skillicons.dev/icons?i=matlab"  height = "60" alt = "Matlab"></a>
-  <a href="https://unity.com/"> <img src="https://skillicons.dev/icons?i=unity"  height = "60" alt = "Unity" ></a>
+  <a href="https://unity.com/"> <img src="https://skillicons.dev/icons?i=unity"  height = "60" alt = "Unity" ></a><br>
 </div>
+<hr></div>
+<h1 align="center">⚡ Stats ⚡</h1>
+<br>
+<div align = "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HridK&langs_count=10&theme=react#gh-dark-mode-only"><br>
+ <img src="https://github-readme-stats.vercel.app/api?username=HridK&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=HridK&theme=react&border=61DAFB&fire=DDB80F#gh-dark-mode-only">
 </div>
