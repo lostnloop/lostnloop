@@ -51,6 +51,6 @@
 <br>
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HridK&langs_count=10&theme=react#gh-dark-mode-only"><br>
- <img align = "left" src="https://github-readme-stats.vercel.app/api?username=HridK&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img align = "right" src = "http://github-readme-streak-stats.herokuapp.com?user=HridK&theme=react&border=61DAFB&fire=DDB80F#gh-dark-mode-only">
+ <img align = "left" src="https://github-readme-stats.vercel.app/api?username=HridK&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" height = "200" width = "250">
+<img align = "right" src = "http://github-readme-streak-stats.herokuapp.com?user=HridK&theme=react&border=61DAFB&fire=DDB80F#gh-dark-mode-only" height = "200" width = "250"/>
 </div>
