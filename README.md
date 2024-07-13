@@ -34,7 +34,7 @@
   <a href="https://www.java.com/"><img src= "https://skillicons.dev/icons?i=java" height="60" alt = "JAVA"/></a>
   <a href="https://www.cprogramming.com/"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png?20201031132917" height = "60" alt="C"/> </a> 
   <a href="https://isocpp.org/"><img style = "margin: 20px; padding: 75px;" src= "https://isocpp.org/assets/images/cpp_logo.png" height= "60"  alt="C++"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/256px-C_Sharp_Logo_2023.svg.png" height = "60"/></a>
+  <!--<a href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/256px-C_Sharp_Logo_2023.svg.png" height = "60"/></a>-->
   <a href ="https://code.visualstudio.com/"> <img src="https://skillicons.dev/icons?i=vscode" height = "60" alt="VS Code"/></a>
   <a href ="https://www.sublimetext.com/"> <img src="https://skillicons.dev/icons?i=sublime" height = "60" alt="Sublime Text"/></a><br>
   <a href ="https://jupyter.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" height = "60" alt = "Jupyter Notebook"/></a> 
@@ -44,7 +44,7 @@
   <a href="https://www.jetbrains.com/idea/"> <img src="https://skillicons.dev/icons?i=idea"  height = "60" alt = "IDEA IntelliJ"></a>
   <a href="https://scikit-learn.org/stable/"> <img src="https://skillicons.dev/icons?i=sklearn"  height = "60" alt = "Scikit-Learn"></a>
   <a href="https://matlab.mathworks.com/"> <img src="https://skillicons.dev/icons?i=matlab"  height = "60" alt = "Matlab"></a>
-  <a href="https://unity.com/"> <img src="https://skillicons.dev/icons?i=unity"  height = "60" alt = "Unity" ></a>
+  <!--<a href="https://unity.com/"> <img src="https://skillicons.dev/icons?i=unity"  height = "60" alt = "Unity" ></a>-->
   <a href="https://www.jetbrains.com/pycharm/"> <img src="https://skillicons.dev/icons?i=pycharm"  height = "60" alt = "PyCharm" ></a><br>
 </div>
 <hr></div>
