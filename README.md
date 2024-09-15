@@ -44,6 +44,7 @@
   <a href="https://www.jetbrains.com/idea/"> <img src="https://skillicons.dev/icons?i=idea"  height = "60" alt = "IDEA IntelliJ"></a>
   <a href="https://scikit-learn.org/stable/"> <img src="https://skillicons.dev/icons?i=sklearn"  height = "60" alt = "Scikit-Learn"></a>
   <a href="https://matlab.mathworks.com/"> <img src="https://skillicons.dev/icons?i=matlab"  height = "60" alt = "Matlab"></a>
+  <a href="https://developer.android.com/"> <img src="https://skillicons.dev/icons?i=androidstudio"  height = "60" alt = "Android Studio"></a>
   <!--<a href="https://unity.com/"> <img src="https://skillicons.dev/icons?i=unity"  height = "60" alt = "Unity" ></a>-->
   <a href="https://www.jetbrains.com/pycharm/"> <img src="https://skillicons.dev/icons?i=pycharm"  height = "60" alt = "PyCharm" ></a><br>
 </div>
