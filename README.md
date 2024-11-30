@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro&size=29&duration=3500&pause=500&color=2787B1&center=true&vCenter=true&random=false&width=500&lines=Hey+There!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Hridayesh;Nice+to+meet+you+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a>
 </p> <hr>
-<h3 align = "center" > MACHINE LEARNING~ DEEP LEARNING ~ CNN ~ REINFORCEMENT LEARNING ~ BLOCKCHAIN DEVELOPMENT</h3><br>
+<h3 align = "center" > MACHINE LEARNING~ DEEP LEARNING ~ CNN ~ REINFORCEMENT LEARNING ~ NLP </h3><br>
 
   <h1 > About-me 🌊</h1>
   <br>
@@ -11,13 +11,11 @@
     
 📚 I am an undergrad at BITS-Pilani, K. K. Birla Goa Campus.
 
-🔭 Primarily interested in **ML/DL** and **Blockchain Development**.
+🔭 Primarily interested in **ML/DL**.
 
-🌱 I'm currently learning **CNN** and **Reinforcement Learning**.
+🌱 Currently learning **CNN**, **Reinforcement Learning** and **NLP**.
 
- ♟️ I'm also a FIDE rated chess player.
-
-👯 I’m looking to collaborate on Github with other ML enthusiasts.
+👯 Looking to collaborate on Github with other ML enthusiasts.
 
 📫 How to reach me:
 <div>
