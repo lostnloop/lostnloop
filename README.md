@@ -50,7 +50,7 @@
 <h1 align="center">⚡ Stats ⚡</h1>
 <br>
 <div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dumbkid3&langs_count=10&theme=react#gh-dark-mode-only"><br>
- <img align = "left" src="https://github-readme-stats.vercel.app/api?username=dumbkid3&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" height = "300" width = "400">
-<img align = "right" src = "http://github-readme-streak-stats.herokuapp.com?user=dumbkid3&theme=react&border=61DAFB&fire=DDB80F#gh-dark-mode-only" height = "300" width = "400"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lostnloop&langs_count=10&theme=react#gh-dark-mode-only"><br>
+ <img align = "left" src="https://github-readme-stats.vercel.app/api?username=lostnloop&show_icons=true&theme=react#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" height = "300" width = "400">
+<img align = "right" src = "http://github-readme-streak-stats.herokuapp.com?user=lostnloop&theme=react&border=61DAFB&fire=DDB80F#gh-dark-mode-only" height = "300" width = "400"/>
 </div>
