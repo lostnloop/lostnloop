@@ -34,7 +34,8 @@
   <a href="https://isocpp.org/"><img style = "margin: 20px; padding: 75px;" src= "https://isocpp.org/assets/images/cpp_logo.png" height= "60"  alt="C++"/></a>
   <!--<a href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/256px-C_Sharp_Logo_2023.svg.png" height = "60"/></a>-->
   <a href ="https://code.visualstudio.com/"> <img src="https://skillicons.dev/icons?i=vscode" height = "60" alt="VS Code"/></a>
-  <a href ="https://www.sublimetext.com/"> <img src="https://skillicons.dev/icons?i=sublime" height = "60" alt="Sublime Text"/></a><br>
+     <a href ="https://tailwindcss.com/"> <img src="https://skillicons.dev/icons?i=tailwind" height = "60" alt="VS Code"/></a>
+  <img src="https://skillicons.dev/icons?i=js" height = "60" alt="Javascript"/><br>
   <a href ="https://jupyter.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" height = "60" alt = "Jupyter Notebook"/></a> 
   <a href="https://pytorch.org/"> <img src="https://skillicons.dev/icons?i=pytorch"  height = "60" alt = "Pytorch"></a>
   <a href="https://www.tensorflow.org/"> <img src="https://skillicons.dev/icons?i=tensorflow"  height = "60" alt = "Tensorflow"></a>
